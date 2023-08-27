@@ -8,7 +8,6 @@ package tp4;
 import javax.swing.JOptionPane;
 
 /**
- *
  * @author avoch
  */
 public class CargaView extends javax.swing.JFrame {
